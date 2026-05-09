@@ -1,10 +1,10 @@
 #/usr/bin/env bash
 
 echo '
-Running kanata setup script.
+Running kanata install script.
 This script was based off of the guide by thomasthai on github:
 https://github.com/jtroo/kanata/discussions/1537
-If you are interested in what this script does, look at this page or read the source code for this script (scripts/setup-kanata-mac.sh).
+If you are interested in what this script does, look at this page or read the source code for this script (scripts/install-kanata-darwin.sh).
 You may press C-c at any point to exit.
 '
 
